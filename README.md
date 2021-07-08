@@ -1,12 +1,12 @@
-### Hi there, I'm Can - aka [HVoltBb][github page]
+### Hi there, I'm Can - aka [HVoltBb][github page] among IDs
 
 - I'm currently learning everything
-- I'm looking forward to colab with other content creators
+- I'm looking forward to colabs with other content creators
 - 2021 Theme(s): Climate change
 
 ### Connect with me:
 [<img align="left" alt="@npc_nz on Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />][twitter]
-[<img color="red" align="left" alt="Can Zhou on LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Can Zhou on LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Can Zhou on ResearchGate" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/researchgate.svg" />][linkedin]
 <br>
 
