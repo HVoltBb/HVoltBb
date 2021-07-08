@@ -1,3 +1,4 @@
+![cover](https://hvoltbb.github.io/pics/cover_pic.jpg)
 ### Hi there, I'm Can - aka [HVoltBb][github page] among other labels
 
 - I'm currently learning everything
