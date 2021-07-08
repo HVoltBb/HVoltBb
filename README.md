@@ -5,7 +5,7 @@
 - 2021 Theme(s): Climate change
 
 ### Connect with me:
-[<img align="left" alt="@npc_nz on Twitter" width="28px" style="fill: #1DA1F2" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />][twitter]
+[<img align="left" alt="@npc_nz on Twitter" width="28px" style="fill: #1DA1F2;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Can Zhou on LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Can Zhou on ResearchGate" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/researchgate.svg" />][linkedin]
 <br>
