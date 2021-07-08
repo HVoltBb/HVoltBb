@@ -1,4 +1,4 @@
-### Hi there, I'm Can - aka [HVoltBb][github page] among IDs
+### Hi there, I'm Can - aka [HVoltBb][github page] among other labels
 
 - I'm currently learning everything
 - I'm looking forward to colabs with other content creators
