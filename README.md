@@ -3,7 +3,7 @@
 
 - I'm currently learning everything
 - I'm looking forward to colabs with other content creators
-- 2021 Theme(s): Climate change
+- 2021 Theme(s): Climate change, gender equality
 
 ### Connect with me:
 [<img align="left" alt="@npc_nz on Twitter" width="28px" src="https://hvoltbb.github.io/pics/twitter.svg" />][twitter]
