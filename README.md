@@ -1,17 +1,20 @@
 ![cover](https://hvoltbb.github.io/pics/cover_pic.jpg)
-### Hi there, I'm Can - aka [HVoltBb][github page] among other labels
+
+### Hi there, I'm HYENA - aka [HVoltBb][github page] among other labels
 
 - I'm currently learning everything
 - I'm looking forward to colabs with other content creators
 - 2021 Theme(s): Climate change, gender equality
 
 ### Connect with me:
+
 [<img align="left" alt="@npc_nz on Twitter" width="28px" src="https://hvoltbb.github.io/pics/twitter.svg" />][twitter]
 [<img align="left" alt="Can Zhou on LinkedIn" width="28px" src="https://hvoltbb.github.io/pics/linkedin.svg" />][linkedin]
 [<img align="left" alt="Can Zhou on ResearchGate" width="28px" src="https://hvoltbb.github.io/pics/researchgate.svg" />][linkedin]
 <br>
 
 ### Lastest posts/publications
+
 - [Multidecadal daily resolved growth increment reveal large-scale climate effect on the growth of the Atlantic blue sharks](https://hvoltbb.github.io/random/posts/climate_change_case01.html)
 - [Seabird bycatch vulnerability in pelagic longline fisheries based on modeling of a long-term dataset](https://hvoltbb.github.io/random/posts/birdbycatch_paper2021.html)
 - [Interaction frequency of seabirds with longline fisheries: risk factors and implications for management](https://hvoltbb.github.io/random/posts/birdbycatch_paper2021_2.html)
