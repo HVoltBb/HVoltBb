@@ -1,9 +1,9 @@
 ![cover](https://hvoltbb.github.io/pics/cover_pic.jpg)
 
-### Hi there, I'm HYENA - aka [HVoltBb][github page] among other labels
+### Hi there, this is HYENA - aka [HVoltBb][github page] among other labels
 
-- I'm currently learning everything
-- I'm looking forward to colabs with other content creators
+- &#9807; by choice if you believe such things
+- Looking forward to colabs with other content creators
 - 2021 Theme(s): Climate change, gender equality
 
 ### Connect with me:
