@@ -3,6 +3,7 @@
 ### Hi there, this is HYENA - aka [HVoltBb][github page] among other labels
 
 - &#9807; by choice if you believe such things
+- A 😺 person, which I just realized recently
 - Looking forward to colabs with other content creators
 - 2021 Theme(s): Climate change, gender equality
 
