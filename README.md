@@ -10,8 +10,8 @@
 ### Connect with me:
 
 [<img align="left" alt="@npc_nz on Twitter" width="28px" src="https://hvoltbb.github.io/pics/twitter.svg" />][twitter]
-[<img align="left" alt="Can Zhou on LinkedIn" width="28px" src="https://hvoltbb.github.io/pics/linkedin.svg" />][linkedin]
-[<img align="left" alt="Can Zhou on ResearchGate" width="28px" src="https://hvoltbb.github.io/pics/researchgate.svg" />][linkedin]
+[<img align="left" alt="Can Zhou on LinkedIn" width="28px" src="https://hvoltbb.github.io/pics/linkedin.svg" />][void]
+[<img align="left" alt="Can Zhou on ResearchGate" width="28px" src="https://hvoltbb.github.io/pics/researchgate.svg" />][researchgate]
 <br>
 
 ### Lastest posts/publications
@@ -27,5 +27,6 @@
 [github page]: https://hvoltbb.github.io/
 [twitter]: https://twitter.com/npc_nz
 [researchgate]: https://www.researchgate.net/profile/Can-Zhou-9
+[void]: #
 
 🌼🌼👿🌼🌼🐺🌼🌼
