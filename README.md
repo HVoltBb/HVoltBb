@@ -5,7 +5,6 @@
 - &#9807; by choice if you believe such things
 - A 😺 person, which I just realized recently
 - Looking forward to colabs with other content creators
-- 2021 Theme(s): Climate change, gender equality
 
 ### Connect with me:
 
@@ -16,7 +15,8 @@
 
 ### Lastest posts/publications
 
-- Brand new original study ✨coming up or NOT✨ 
+- One more brand new original study ✨coming up✨ 
+- [Assessing the Uncertainty of Total Seabird Bycatch Estimates Synthesized from Multiple Sources with a Scenario Analysis from the Western and Central Pacific][seabirds]
 - [Somatic growth of Atlantic bluefin tuna _Thunnus thynnus_ under global climate variability: Evidence from over 60 years of daily resolved growth increments with a simulation study](https://github.com/HVoltBb/climate-change-02)
 - [Multidecadal daily resolved growth increment reveal large-scale climate effect on the growth of the Atlantic blue sharks](https://hvoltbb.github.io/random/posts/climate_change_case01.html)
 - [Seabird bycatch vulnerability in pelagic longline fisheries based on modeling of a long-term dataset](https://hvoltbb.github.io/random/posts/birdbycatch_paper2021.html)
@@ -28,5 +28,9 @@
 [twitter]: https://twitter.com/npc_nz
 [researchgate]: https://www.researchgate.net/profile/Can-Zhou-9
 [void]: #
+[seabirds]: https://hvoltbb.github.io/random/posts/birdbycatch_paper2022.html
 
 🌼🌼👿🌼🌼🐺🌼🌼
+
+### PS
+Cyber criminals, please don't try to break into my online accounts every two weeks. In the past, you had some wins. I'll give you that, but could you please stop there. It is REALLY annoying now.
