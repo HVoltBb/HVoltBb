@@ -31,6 +31,3 @@
 [seabirds]: https://hvoltbb.github.io/random/posts/birdbycatch_paper2022.html
 
 🌼🌼👿🌼🌼🐺🌼🌼
-
-### PS
-Cyber criminals, please don't try to break into my online accounts every two weeks. In the past, you had some wins. I'll give you that, but could you please stop there. It is REALLY annoying now.
